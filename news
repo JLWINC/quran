@@ -1,0 +1,60 @@
+{
+"title" : "",
+"data":[
+       {
+        "id":1,
+        "type":"News",
+        "auther":"Islam Info",
+        "date":"2019-04-12",
+        "title":"الفرق بين النصيب والقدر",
+        "startitlel":"النصيب والقدر",
+        "subtitle":" يخطئ كثير من الناس في تفسير التسليم بالقضاء والقدر وفي التمييز وهم يترجمون عبارة «هذا نصيبه من الله والدنيا» وبين عبارة «هذا ما قدره الله له»!! ",
+        "desc":"https://gfjgfjfjjjggfjfj.blogspot.com/p/blog-page.html?m=1",
+        "img":"http://islam.ahram.org.eg/Media/NewsMedia/2017/6/7/2017-636324062031098693-109_Inner_630x371.jpg"
+       },
+       {
+        "id":2,
+        "type":"type two",
+        "auther":"auther two",
+        "date":"date two",
+        "title":" title two",
+        "startitlel":" start title 2",
+        "subtitle":" subtitle 2",
+        "desc":"Full desctiption 2",
+        "img":"https://www.whyislam.org/wp-content/uploads/2016/12/islam-background.jpg"
+       },       
+       {
+        "id":3,
+        "type":"type two",
+        "auther":"auther two",
+        "date":"date two",
+        "title":" title two",
+        "startitlel":" start title 2",
+        "subtitle":" subtitle 2",
+        "desc":"Full desctiption 2",
+        "img":"https://www.whyislam.org/wp-content/uploads/2016/12/islam-background.jpg"
+       },
+         {
+        "id":4,
+        "type":"type two",
+        "auther":"auther two",
+        "date":"date two",
+        "title":" title two",
+        "startitlel":" start title 2",
+        "subtitle":" subtitle 2",
+        "desc":"Full desctiption 2",
+        "img":"https://www.whyislam.org/wp-content/uploads/2016/12/islam-background.jpg"
+       },
+        {
+        "id":5,
+        "type":"type two",
+        "auther":"auther two",
+        "date":"date two",
+        "title":" title two",
+        "startitlel":" start title 2",
+        "subtitle":" subtitle 2",
+        "desc":"Full desctiption 2",
+        "img":"https://www.whyislam.org/wp-content/uploads/2016/12/islam-background.jpg"
+       }
+       ]
+ }
