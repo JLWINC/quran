@@ -2,5 +2,5 @@
 	"dashboard_img":                   "https://raw.githubusercontent.com/JLWINC/quran/master/adha.jpg",
 	"prayer_time_widget":              "<div class='content-boxed bottom-0'><div class='content center-text'><h2 class='bolder bottom-15'>أوقات الصلاة لموقعك الحالي</h2><center><iframe style='width: 182px; height: 290px; border: 1px solid #ddd;' frameBorder='0' scrolling='no' src='https://www.islamicfinder.org/prayer-widget/'> Please Connect to internet to view the content !! </iframe></center></div></div><div class='content-boxed bottom-0'><div class='content center-text'><h4 class='bolder bottom-15 top-15'> أوقات الصلاة لجميع المدن من مكة المكرمة</h4><h5 class='bolder bottom-15 top-15'>اختر المدينة التي تريد</h5><iframe src='https://timesprayer.com/widgets.php?frame=1&amp;lang=ar&amp;name=makkah&amp;avachang=true&amp;time=0' style='border: none; overflow: hidden; width: 100%; height: 200px;'></iframe><a href='#' class='color-highlight'>هذه الخاصية تعمل بالانترنت ليتمكن من التعرف على الموقع</a></div></div>",
 	"prayer_time_change_to_top_icon" : "<a href='#page-transitions' class='scale-hover back-to-top' style='transition: all 350ms ease 0s;'><i class='fa fa-caret-square-o-up'></i><span>Top</span>",
-	"prayer_time_widget_show":         "yes"
+	"prayer_time_widget_show":         "no"
 }
