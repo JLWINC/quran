@@ -6,5 +6,6 @@
 	"new_app_content":                 "<div class='content-boxed content-boxed-full'><a href='#' data-instant-id='instant-1'><img src='images/adkar.png' alt='img' class='preload-image responsive-image round-small shadow-large'></a><div class='content bottom-10'><h2 class='bolder top-30' style='text-align: right;'>اذكار و ادعية : حصن المسلم‎</h2><p class='bottom-15' style='text-align: right;font-size:16px'>تطبيق اذكار و ادعية مكتوبة وصوتية حصن المسلم من القرأن الكريم<br>بدون انترنت زائد عدة اشياء ♥♥ </p><a href='https://play.google.com/store/apps/details?id=com.quran.quran.adkar' class='line-height-huge' style='text-align: right;font-size:15px;font-weight: 700;'><span class='color-highlight' style='text-align: right;' > Download</span><span class='color-theme' style='text-align: right;;margin-right:8px'>: تحميل  </span><i class='fa fa-download font-10 right-50' style='text-align: right;'></i></a><a href='https://www.facebook.com/JLW.lnc/' class='line-height-huge' style='text-align: right;padding-top:2px;font-size:15px;font-weight: 700;'><span class='color-highlight' style='text-align: right;'> Facebook</span><span class='color-theme' style='text-align: right;;margin-right:8px'>: تابعنا عبر الفيسبوك  </span><i class='fa fa-facebook font-10 right-50' style='text-align: right;'></i></a></div></div>",
 	"new_app_content_show":            "no",
         "interstitialshow"    :            "Yes",
-	"announcement"        :            "-"
+	"announcement"        :            "-",
+	"BannerTop"           :            "true,true,true,true"
 }
