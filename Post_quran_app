@@ -7,5 +7,5 @@
 	"new_app_content_show":            "no",
         "interstitialshow"    :            "Yes",
 	"announcement"        :            "-",
-	"BannerTop"           :            "true.true.true.false.true.true.true.true"
+	"BannerTop"           :            "false.true.true.false.true.true.false.true"
 }
