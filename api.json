@@ -13,36 +13,7 @@
            "show"  : "true",
            "widget":"<div class='content-boxed bottom-0'><div class='content center-text' style='margin-bottom:0px'><h4 class='bolder bottom-15 top-15'> أوقات الصلاة لجميع المدن من مكة المكرمة</h4><h5 class='bolder bottom-15 top-15'>اختر المدينة التي تريد</h5><iframe src='https://timesprayer.com/widgets.php?frame=1&amp;lang=ar&amp;name=makkah&amp;avachang=true&amp;time=0' style='border: none; overflow: hidden; width: 100%; height: 200px;'></iframe></div><script>function closebtn(){$('.jconfirm').hide();}<\/script><button onclick='closebtn()' type='button' name='newbtn' style='color:white!important;background-color:#e74c3c!important'>اغلاق</button><div id='NativeAdsCont2' style='width: 100%; height: 350px'></div><center><div class='content center-text'><h2 class='bolder bottom-15'>أوقات الصلاة لموقعك الحالي</h2><center><iframe style='width: 182px; height: 299px; border: 1px solid #ddd;' frameBorder='0' scrolling='no' src='https://www.islamicfinder.org/prayer-widget/'> Please Connect to internet to view the content !! </iframe></center></div><center><a href='#' class='color-highlight'>هذه الخاصية تعمل بالانترنت ليتمكن من التعرف على الموقع</a></center></div>"
         },
-        "ads":"true",
-        "adsid":"ca-app-pub-3940256099942544/",
-        "banner": {
-              "show":"true",
-              "BannerTop"  :"true.true.true",
-              "b0"   :["6300978111","true","index"],
-              "b1"   :["6300978111","true","jom"],
-              "b2"   :["6300978111","true","art"],
-              "b3"   :["6300978111","true","qur"],
-              "b4"   :["6300978111","true","scr"],
-              "b5"   :["6300978111","true","aud"],
-              "b6"   :["6300978111","true","cho"]
-        },
-        "interstitial": {
-              "show":"true",
-              "i0"   : ["1033173712", "true",""],
-              "i1"   : ["1033173712", "true",""],
-              "i2"   : ["1033173712", "true",""]
-        },
-        "native": {
-              "show":"true",
-              "n0"  : ["2247696110", "true","index"],
-              "n1"  : ["2247696110", "true","cho"],
-              "n2"  : ["2247696110", "true","prywd"]
-        },    
-        "reward": {
-              "show":"true",
-              "r0"  : ["5224354917", "true",""],
-              "r1"  : ["5224354917", "true",""],
-              "r2"  : ["5224354917", "true",""]
-        }
+        "ads":"true",  
+        "BannerTop" : "true.true.true.true.true.true.true.true.true.true.true.true.true.true"
       }
 }
