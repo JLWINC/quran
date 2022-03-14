@@ -17,7 +17,7 @@
         "bannerShow":"true",
         "interstitialShow":"false",
         "nativeShow":"true",
-        "bannerColor":"A7A7A7",
+        "bannerColor":"#A7A7A7",
         "BannerTop" : "top.top.top.top.top.top.top.top.top.top.top.top.top.top",
       }
 }
