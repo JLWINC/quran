@@ -20,7 +20,7 @@
         "BannerTop" : "top.top.top.top.top.top.top.top.top.top.top.top.top.top",
         "bannerConfig":{
             "show" : "true",
-            "color": "#A7A7A7",
+            "color": "#dbdb1d",
             "marginTop":"88",
             "marginBottom":"34"
         }
