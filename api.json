@@ -1,7 +1,7 @@
 {
     "app": {
         "dashboard_img": "https://raw.githubusercontent.com/JLWINC/quran/master/adha.jpg",
-        "announcement":"<marquee style='color:#4c974b' direction='right'  class='ultrabold uppercase center-text' behavior='alternate' scrollamount='2'>اللهم صلّ على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد. <br>قال تعالى: (إِنَّ اللَّـهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا)</marquee>",
+        "announcement":"<marquee style='color:#4c974b' direction='right'  class='ultrabold uppercase center-text' scrollamount='2'>اللهم صلّ على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد. <br>قال تعالى: (إِنَّ اللَّـهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا)</marquee>",
         "audio_page":{
               "show_page":"true",
               "reader_1":["عبدالرحمن السديس","https://raw.githubusercontent.com/JLWINC/sdsmp3/main/"],
