@@ -17,6 +17,7 @@
         "bannerShow":"true",
         "interstitialShow":"false",
         "nativeShow":"true",
+        "moveNative":"true",
         "BannerTop" : "top.top.top.top.top.top.top.top.top.top.top.top.top.top",
         "bannerConfig":{
             "show" : "true",
