@@ -20,6 +20,7 @@
         "moveNative":"true",
         "moveNativeAll":"true",
         "BannerTop" : "top.top.top.top.top.top.top.top.top.top.top.top.top.top",
+        "countryMsg":"true",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive",
         "bannerConfig":{
             "show" : "true",
