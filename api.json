@@ -22,7 +22,7 @@
         "BannerTop" : "top.top.top.top.top.top.top.top.top.top.top.top.top.top",
         "countryMsg":"true",
         "CheckConnectionMsg":"true",
-        "RadioShow":"true",
+        "RadioShow":"false",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive",
         "bannerConfig":{
             "show" : "true",
