@@ -19,6 +19,7 @@
         "nativeShow":"true",
         "moveNative":"true",
         "moveNativeAll":"true",
+        "AppOpenAdShow":"true",
         "BannerTop" : "top.top.top.top.top.top.top.top.top.top.top.top.top.top",
         "countryMsg":"true",
         "CheckConnectionMsg":"true",
