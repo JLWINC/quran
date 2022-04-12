@@ -19,14 +19,14 @@
         "nativeShow":"true",
         "moveNative":"true",
         "moveNativeAll":"true",
-        "AppOpenAdShow":"false",
-        "BannerTop" : "top.top.Adaptive.top.none.Adaptive.top.none.top.none.Adaptive.top.top.Adaptive.none",
+        "AppOpenAdShow":"true",
+        "BannerTop" : "Adaptive.Adaptive.Adaptive.Adaptive.Adaptive.Adaptive.Adaptive.Adaptive.Adaptive.Adaptive.none.top",
         "countryMsg":"true",
         "CheckConnectionMsg":"true",
         "RadioShow":"true",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive",
         "bannerConfig":{
-            "show" : "true",
+            "show" : "false",
             "color": "#dbdb1d",
             "marginTop":"88",
             "marginBottom":"34"
