@@ -20,7 +20,7 @@
         "moveNative":"true",
         "moveNativeAll":"true",
         "AppOpenAdShow":"false",
-        "BannerTop" : "Adaptive.Adaptive.Adaptive,top,top,top,top",
+        "BannerTop" : "Adaptive.Adaptive.Adaptive,top,top,top",
         "countryMsg":"true",
         "CheckConnectionMsg":"true",
         "RadioShow":"true",
