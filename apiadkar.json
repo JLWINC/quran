@@ -1,7 +1,7 @@
 {
     "app": {
         "dashboard_img": "https://raw.githubusercontent.com/JLWINC/quran/2022/adha.jpg",
-        "announcement":"<marquee style='color:#4c974b' direction='right'  class='ultrabold uppercase center-text' scrollamount='2'>اللهم صلّ على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد >>>قال تعالى: (إِنَّ اللَّـهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا)</marquee>",
+        "announcement":"<marquee style='color:#4c974b' direction='right'  class='ultrabold uppercase center-text'>اللهم صلّ على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد >>>قال تعالى: (إِنَّ اللَّـهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا)</marquee>",
         "ads":"true",  
         "bannerShow":"true",
         "interstitialShow":"false",
@@ -15,8 +15,8 @@
         "RadioShow":"false",
         "reveiewShow":"false",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive",
-        "NativeAutorisationShow":"index.homesabah.homesabah.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
-        "commentNativeNativeAutorisationShowPages":"index.homesabah.homesabah.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
+        "NativeAutorisationShow":"index.homesabah.homemasae.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
+        "commentNativeNativeAutorisationShowPages":"index.homesabah.homemasae.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
         "bannerConfig":{
             "show" : "false",
             "color": "#dbdb1d",
