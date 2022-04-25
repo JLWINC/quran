@@ -15,6 +15,8 @@
         "RadioShow":"false",
         "reveiewShow":"false",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive",
+        "NativeAutorisationShow":"index.homesabah.homesabah.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
+        "commentNativeNativeAutorisationShowPages":"index.homesabah.homesabah.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
         "bannerConfig":{
             "show" : "false",
             "color": "#dbdb1d",
