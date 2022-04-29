@@ -9,7 +9,7 @@
         "moveNative":"false",
         "moveNativeAll":"false",
         "AppOpenAdShow":"false",
-        "BannerTop" : "Adaptive.Adaptive.Adaptive.top.top.top",
+        "BannerTop" : "top.top.top.top.top.top",
         "countryMsg":"false",
         "CheckConnectionMsg":"false",
         "RadioShow":"false",
