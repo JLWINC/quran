@@ -15,7 +15,7 @@
            "widget_350" : "<div class='content-boxed bottom-0'><div class='content center-text' style='margin-bottom:0px'><h4 class='bolder bottom-15 top-15'> أوقات الصلاة لجميع المدن من مكة المكرمة</h4><h5 class='bolder bottom-15 top-15'>اختر المدينة التي تريد</h5><iframe src='https://timesprayer.com/widgets.php?frame=1&amp;lang=ar&amp;name=makkah&amp;avachang=true&amp;time=0' style='border: none; overflow: hidden; width: 100%; height: 200px;'></iframe></div><script>function closebtn(){$('.jconfirm').hide();}<\/script><div class='decoration decoration-margins'></div> <div id='NativeAdsCont' style='width: 100%; height: 350px'></div><div class='decoration decoration-margins'></div> <center><div class='content center-text'><h2 class='bolder bottom-15'>أوقات الصلاة لموقعك الحالي</h2><center><iframe style='width: 182px; height: 299px; border: 1px solid #ddd;' frameBorder='0' scrolling='no' src='https://www.islamicfinder.org/prayer-widget/'> Please Connect to internet to view the content !! </iframe></center></div><center><a href='#' class='color-highlight'>هذه الخاصية تعمل بالانترنت ليتمكن من التعرف على الموقع</a></center></div>"
 
         },
-        "ads":"true",  
+        "ads":"false",  
         "bannerShow":"true",
         "interstitialShow":"false",
         "nativeShow":"false",
