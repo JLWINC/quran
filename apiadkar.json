@@ -14,7 +14,7 @@
         "CheckConnectionMsg":"false",
         "RadioShow":"true",
         "reveiewShow":"true",
-        "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive",
+        "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive,  TypeNetwork = Admob.Applovin.Facebook",
         "NativeAutorisationShow":"index.homesabah.homemasae.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
         "commentNativeNativeAutorisationShowPages":"index.homesabah.homemasae.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
         "bannerConfig":{
@@ -22,6 +22,7 @@
             "color": "#dbdb1d",
             "marginTop":"88",
             "marginBottom":"34"
-        }
+        },
+        "NetworkAds":"Admob.Applovin.Facebook"
       }
 }
