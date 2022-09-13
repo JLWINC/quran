@@ -5,7 +5,7 @@
         "ads":"true",  
         "bannerShow":"true",
         "interstitialShow":"true",
-        "nativeShow":"false",
+        "nativeShow":"true",
         "moveNative":"false",
         "moveNativeAll":"false",
         "AppOpenAdShow":"false",
@@ -15,7 +15,7 @@
         "RadioShow":"true",
         "reveiewShow":"true",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive,  TypeNetwork = Admob.Applovin.Facebook",
-        "NativeAutorisationShow":"index.homesabah.homemasae.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
+        "NativeAutorisationShow":"index",
         "commentNativeNativeAutorisationShowPages":"index.homesabah.homemasae.sabahaudio.masaeaudio.istikad.sabah.masae.nawem.afterprayer.tasabih",
         "bannerConfig":{
             "show" : "false",
