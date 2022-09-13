@@ -22,7 +22,7 @@
         "moveNative":"true",
         "moveNativeAll":"true",
         "AppOpenAdShow":"false",
-        "BannerTop" : "top.none.none.none.top.top",
+        "BannerTop" : "none.none.none.none.none.none",
         "countryMsg":"false",
         "CheckConnectionMsg":"true",
         "RadioShow":"true",
