@@ -5,7 +5,7 @@
         "ads":"true",  
         "bannerShow":"true",
         "interstitialShow":"true",
-        "nativeShow":"true",
+        "nativeShow":"false",
         "moveNative":"false",
         "moveNativeAll":"false",
         "AppOpenAdShow":"false",
