@@ -4,7 +4,7 @@
         "announcement":"<marquee style='color:#4c974b' direction='right'  class='ultrabold uppercase center-text'>اللهم صلّ على محمد وعلى آل محمد، كما صليت على إبراهيم وعلى آل إبراهيم، وبارك على محمد وعلى آل محمد، كما باركت على إبراهيم وعلى آل إبراهيم، إنك حميد مجيد >>>قال تعالى: (إِنَّ اللَّـهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا)</marquee>",
         "ads":"true",  
         "bannerShow":"true",
-        "interstitialShow":"false",
+        "interstitialShow":"true",
         "nativeShow":"false",
         "moveNative":"false",
         "moveNativeAll":"false",
