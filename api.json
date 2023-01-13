@@ -18,7 +18,7 @@
         "ads":"true",  
         "bannerShow":"true",
         "interstitialShow":"true",
-        "nativeShow":"true",
+        "nativeShow":"false",
         "moveNative":"true",
         "moveNativeAll":"true",
         "AppOpenAdShow":"false",
