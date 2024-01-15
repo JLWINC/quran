@@ -44,7 +44,8 @@
         "rokyaPageAds":"true",
         "screenshotPageAds":"true",
         "timePageAds":"true",
-        "radioPageAds":"true"
+        "radioPageAds":"true",
+        "isModeTest":"true",
 
       }
 }
