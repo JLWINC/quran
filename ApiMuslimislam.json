@@ -5,9 +5,9 @@
         "audio_page":{
               "show_page":"true",
               "reader_1":["عبدالرحمن السديس","https://github.com/JLWINC/sdsmp3/raw/main/"],
-              "reader_2":["العيون الكوشي","https://server11.mp3quran.net/koshi/"],
-              "reader_3":["مشاري عفاسي","https://server11.mp3quran.net/mishaari_w_ibrahim_walk_si/"],
-              "reader_4":["عبد الباسط عبد الصمد","https://server7.mp3quran.net/basit/"]
+              "reader_2":["العيون الكوشي","https://raw.githubusercontent.com/JLWINC/koshiMP3/main/"],
+              "reader_3":["مشاري عفاسي","https://raw.githubusercontent.com/JLWINC/afasiMP3/main/"],
+              "reader_4":["عبد الباسط عبد الصمد","https://raw.githubusercontent.com/JLWINC/basitMP3/main/"]
         },
         "prayer_time_widget":{
            "show"   : "true",
@@ -22,7 +22,7 @@
         "moveNative":"true",
         "moveNativeAll":"true",
         "AppOpenAdShow":"false",
-        "BannerTop" : "none.top.top.none.top.none.none.none",
+        "BannerTop" : "top.top.top.top.top.top.top.top",
         "countryMsg":"false",
         "CheckConnectionMsg":"true",
         "RadioShow":"true",
