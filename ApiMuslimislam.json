@@ -35,16 +35,16 @@
             "marginBottom":"34"
         },
         "indexPageAds":"true",
-        "audioPageAds":"false",
-        "choisePageAds":"false",
-        "jomoaPageAds":"false",
-        "ma9alatPageAds":"false",
-        "nameofallahPageAds":"false",
-        "ramadanPageAds":"false",
-        "rokyaPageAds":"false",
-        "screenshotPageAds":"false",
-        "timePageAds":"false",
-        "radioPageAds":"false",
-        "isModeTest":"false"
+        "audioPageAds":"true",
+        "choisePageAds":"true",
+        "jomoaPageAds":"true",
+        "ma9alatPageAds":"true",
+        "nameofallahPageAds":"true",
+        "ramadanPageAds":"true",
+        "rokyaPageAds":"true",
+        "screenshotPageAds":"true",
+        "timePageAds":"true",
+        "radioPageAds":"true",
+        "isModeTest":"true"
       }
 }
