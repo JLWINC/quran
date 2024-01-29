@@ -23,6 +23,18 @@
             "marginTop":"88",
             "marginBottom":"34"
         },
-        "NetworkAds":"Admob"
+        "NetworkAds":"Admob",
+        "indexPageAds":"true",
+        "adkarAfterSalatPageAds":"true",
+        "TasabihPageAds":"true",
+        "homeMasaePageAds":"true",
+        "homeSabahPageAds":"true",
+        "masaeAudioPageAds":"true",
+        "adkarStikadPageAds":"true",
+        "adkarSabahPageAds":"true",
+        "adkarMasaePageAds":"true",
+        "adkarNawmPageAds":"true",
+        "sabahAudioPageAds":"true",
+        "isModeTest":"false"
       }
 }
