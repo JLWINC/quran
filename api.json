@@ -29,7 +29,7 @@
         "reveiewShow":"true",
         "comment":"moveNativeAll=false only show in index, type banner = top,none,Adaptive https://server11.mp3quran.net/koshi",
         "bannerConfig":{
-            "show" : "true",
+            "show" : "false",
             "color": "#dbdb1d",
             "marginTop":"88",
             "marginBottom":"34"
@@ -49,5 +49,6 @@
 
       }
 }
+
 
 
