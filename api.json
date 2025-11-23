@@ -17,11 +17,11 @@
         },
         "ads":"true",  
         "bannerShow":"true",
-        "interstitialShow":"false",
+        "interstitialShow":"true",
         "nativeShow":"false",
         "moveNative":"false",
         "moveNativeAll":"false",
-        "AppOpenAdShow":"false",
+        "AppOpenAdShow":"true",
         "BannerTop" : "none.top.none.top.top.none.top.none",
         "countryMsg":"false",
         "CheckConnectionMsg":"false",
@@ -49,6 +49,7 @@
 
       }
 }
+
 
 
 
